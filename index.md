@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<br>Đón sóng đầu tư Sinh lời vượt trội Tập đoàn Hưng Thịnh ra mắt dự án Khu căn hộ cao cấp HỒ TRÀM COMPLEX tọa lạc ngay tại khu vực trung tâm VŨNG TÀU nơi đây được mệnh danh “thủ phủ resort” cung đường ven biển hoang sơ và đẹp nhất Hồ Tràm,  được các chuyên gia đánh giá là vùng trũng về đầu tư của tỉnh Bà Rịa – Vũng Tàu. Đón sóng hạ tầng ngày càng phát triển đồng bộ và hiện đại, nhất là quy hoạch xây dựng và nâng cấp các sân bay lớn, <a href="https://tanaland.vn/du-an/ho-tram-complex/">Hồ Tràm Complex Tanaland</a>
+mang đến nhiều cơ hội sinh lời hấp dẫn.
 
-You can use the [editor on GitHub](https://github.com/hotramcomplex/hotramcomplex.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<br>Tổng quan dự án:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>. Tên Dự án: Hồ Tràm Complex
 
-### Markdown
+<br>. Chủ đầu tư : Công ty Cổ phần Minh Tuấn Sông Ray (Cty thành viên Hưng Thịnh Corp)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>. Phát triển dự án : Hưng Thịnh Land.
 
-```markdown
-Syntax highlighted code block
+<br>. Phân Phối: Công ty cổ phần Property X.
 
-# Header 1
-## Header 2
-### Header 3
+<br>. Địa chỉ : Hồ Tràm, Xuyên Mộc, tỉnh Bà Rịa Vũng Tàu.
 
-- Bulleted
-- List
+<br>. Quy Mô : 7.5 ha
 
-1. Numbered
-2. List
+<br>. Khu công viên biển và bãi biển riêng: 2 ha
 
-**Bold** and _Italic_ and `Code` text
+<br>. Tổng số căn hộ: 2.500 căn.
 
-[Link](url) and ![Image](src)
-```
+<br>. Thiết kế: 7 tòa tháp cao 21 tầng, gồm khu căn hộ, Shophouse, khu tiện ích beachclub
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>. Mặt độ xây dựng : 23%
 
-### Jekyll Themes
+<br>. Tiện ích: Hơn 40 tiện ích cao cấp đạt chuẩn resort 5*, có trường học cấp 1 ngay trong dự án, 2 hồ bơi rộng gần 3000m2, trung tâm thương mại, đặt biệt sở hữu bãi tắm biển dành riêng cho dự án,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hotramcomplex/hotramcomplex.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>. Hình thức sở hữu: Sổ hồng sở hữu lâu dài đối với người Việt Nam và sở hữu 50 năm đối với người nước ngoài.
 
-### Support or Contact
+<br>. Thời gian xây dựng :Quý III 2020
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>. Thời gian bàn giao : Quý III 2024
+
+<br>Thông tin về Hồ Tràm Complex Tanaland:
+<br>Địa chỉ: 53 Trần Quốc Thảo, Phường 7, Quận 3, TPHCM
+<br>SĐT: 0933626366
+<br>Email: ntland.vn@gmail.com
+
